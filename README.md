@@ -23,12 +23,12 @@ Most of my current projects are written in Python, Lua, and TypeScript!
 <!-- Adicione aqui frameworks específicos se quiser, como React, Flask, etc -->
 
 ## 🚀 Learning & Exploring
-- Game Development
-- Automation
-- Web Applications
-- Business Intelligence (BI)  
-- Smart Solutions  
-- Internet of Things (IoT)
+- **Game Development** – Creating interactive experiences with Lua and game engines  
+- **Automation** – Building scripts and tools to simplify tasks  
+- **Web Applications** – Developing front-end and back-end features  
+- **Business Intelligence (BI)** – Analyzing and visualizing data for better decision-making  
+- **Smart Solutions** – Applying tech to solve real-world problems  
+- **Internet of Things (IoT)** – Connecting devices and data through sensors and networks
 
 ---
 
