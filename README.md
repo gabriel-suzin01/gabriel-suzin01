@@ -1,16 +1,19 @@
+<p align="start">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=700&height=100&color=ffffff&center=false&repeat=false&lines=Gabriel+Suzin+Joaquim">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=000000&width=700&height=100&center=false&repeat=false&lines=Gabriel+Suzin+Joaquim" alt="Gabriel Suzin Joaquim Typing SVG"/>
+  </picture>
+</p>
+
 # <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
 
   I'm a passionate junior developer, constantly seeking to improve my methods and expand my knowledge. I graduated as a **Technical in Information Technology** from the **Instituto Federal de Santa Catarina – Câmpus Caçador**, and I am currently pursuing a **Bachelor's degree in Systems Analysis and Development at UNIARP**. 
   I enjoy learning new technologies, building projects, and contributing to collaborative development environments!
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-suzin01&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=radical" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-suzin01&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark" />
+</p>
 
 ---
 
@@ -36,6 +39,12 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" />
+    </td>
+    <td>
+      <p valign="center" align="center" max-width="100">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suzin01&layout=compact&theme=dark" height="250" />
+        <!-- caso quiser futuramente implementar horas de coding <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-suzin01&theme=merko" /> -->
+      </p>
     </td>
   </tr>
 </table>
