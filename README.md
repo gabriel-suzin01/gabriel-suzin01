@@ -30,8 +30,8 @@
     </td>
     <td width=50% valign="top">
       <img src="images/C.svg" />
-      <img src="images/C#.svg" />
-      <img src="images/C++.svg" />
+      <img src="images/C%23.svg" />
+      <img src="images/C%2B%2B.svg" />
       <img src="images/CSS.svg" />
       <img src="images/DAX.svg" />
       <img src="images/HTML.svg" />
