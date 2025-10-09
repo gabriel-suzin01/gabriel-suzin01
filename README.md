@@ -3,7 +3,7 @@
 <p align="start">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=700&height=100&color=ffffff&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👨‍💻+Junior+Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=000000&width=700&height=100&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👨‍💻+Junior+Developer" alt="Gabriel Suzin Joaquim"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=000000&width=700&height=100&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👨‍💻+Software+Developer" alt="Gabriel Suzin Joaquim"/>
   </picture>
 </p>
 
@@ -14,8 +14,7 @@
 
 # <img src="images/wave.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
 
-  I'm a passionate junior developer, constantly seeking to improve my methods and expand my knowledge. I graduated as a **Technical in Information Technology** from the **Instituto Federal de Santa Catarina – Câmpus Caçador**, and I am currently pursuing a **Bachelor's degree in Systems Analysis and Development at UNIARP**. 
-  I enjoy learning new technologies, building projects, and contributing to collaborative development environments!
+  I graduated as a **Technical in Information Technology** from the **Instituto Federal de Santa Catarina – Câmpus Caçador**, and I am currently pursuing a **Bachelor's degree in Systems Analysis and Development at UNIARP**. I'm constantly seeking to improve my methods and expand my knowledge!
 
 ---
 
