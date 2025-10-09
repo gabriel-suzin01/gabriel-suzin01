@@ -2,14 +2,14 @@
 
 <p align="start">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=700&height=100&color=ffffff&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👨‍💻+Junior+Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=000000&width=700&height=100&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👨‍💻+Software+Developer" alt="Gabriel Suzin Joaquim"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&width=700&height=100&color=ffffff&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👾+Software+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=000000&width=700&height=100&center=false&pause=5000&repeat=true&lines=Gabriel+Suzin+Joaquim;👾+Software+Developer" alt="Gabriel Suzin Joaquim"/>
   </picture>
 </p>
 
 <div align="center" width=100%>
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-suzin01&theme=dark&background=00000000&hide_border=true" width=48%/>
+    <img src="https://streak-stats.demolab.com?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
 </div>
 
 # <img src="images/wave.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
@@ -68,6 +68,28 @@
     </td>
   </tr>
 </table>
+
+## <img src="images/robot.gif" alt="🤖" height="24" style="vertical-align: middle"/> Main Repos
+
+<details>
+  <summary>Back-end Projects</summary>
+
+  <a href="https://github.com/gabriel-suzin01/REPO1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=python-powerbi-webscrapping" />
+  </a>
+</details>
+
+<!-- <details>
+  <summary>▶ Front-end Projects</summary>
+</details> -->
+
+<!-- <details>
+  <summary>▶ Fullstack Projects</summary>
+</details> -->
+
+<!-- <details>
+  <summary>▶ Others Projects</summary>
+</details> -->
 
 ## <img src="images/rocket.gif" alt="🚀" height="24" style="vertical-align: middle"/> Learning & Exploring
 
