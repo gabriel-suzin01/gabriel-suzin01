@@ -74,7 +74,7 @@
 <details>
   <summary>Back-end Projects</summary>
 
-  <a href="https://github.com/gabriel-suzin01/REPO1">
+  <a href="https://github.com/gabriel-suzin01/python-powerbi-webscrapping">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=python-powerbi-webscrapping&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
 </details>
