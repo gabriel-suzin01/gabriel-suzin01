@@ -9,7 +9,7 @@
 
 <div align="center" width=100%>
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
-    <img src="https://github-readme-streak-stats-alpha-gray.vercel.app?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-alpha-gray.vercel.app?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" width=48%/>
 </div>
 
 # <img src="images/wave.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
