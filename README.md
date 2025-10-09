@@ -14,7 +14,8 @@
 
 # <img src="images/wave.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
 
-  I graduated as a **Technical in Information Technology** from the **Instituto Federal de Santa Catarina – Câmpus Caçador**, and I am currently pursuing a **Bachelor's degree in Systems Analysis and Development at UNIARP**. I'm constantly seeking to improve my methods and expand my knowledge!
+  I graduated as a **Technical in Information Technology** from the **Instituto Federal de Santa Catarina – Câmpus Caçador**, and I am currently pursuing a **Bachelor's degree in Systems Analysis and Development at UNIARP**. 
+  I'm constantly seeking to improve my methods and expand my knowledge!
 
 ---
 
@@ -69,7 +70,7 @@
   </tr>
 </table>
 
-## <img src="images/robot.gif" alt="🤖" height="24" style="vertical-align: middle"/> Main Repos
+## <img src="images/robot.gif" alt="🤖" height="24" style="vertical-align: middle"/> Main Repositories
 
 <details>
   <summary>Back-end Projects</summary>
