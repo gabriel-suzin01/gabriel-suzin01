@@ -36,6 +36,7 @@
       <img src="images/DAX.svg" />
       <img src="images/HTML.svg" />
       <img src="images/JAVA.svg" />
+      <img src="images/JS.svg" />
       <img src="images/LUAU.svg" />
       <img src="images/M.svg" />
       <img src="images/PYTHON.svg" />
