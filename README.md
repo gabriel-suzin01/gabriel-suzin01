@@ -80,16 +80,20 @@
   </a>
 </details>
 
+<details>
+  <summary>Front-end Projects</summary>
+  
+  <a href="https://github.com/gabriel-suzin01/ifsc-garden-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=ifsc-garden-monitor&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+  </a>
+</details>
+
 <!-- <details>
-  <summary>▶ Front-end Projects</summary>
+  <summary>Fullstack Projects</summary>
 </details> -->
 
 <!-- <details>
-  <summary>▶ Fullstack Projects</summary>
-</details> -->
-
-<!-- <details>
-  <summary>▶ Others Projects</summary>
+  <summary>Others Projects</summary>
 </details> -->
 
 ## <img src="images/rocket.gif" alt="🚀" height="24" style="vertical-align: middle"/> Learning & Exploring
