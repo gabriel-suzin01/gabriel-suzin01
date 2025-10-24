@@ -76,8 +76,12 @@
 <details>
   <summary>Back-end Projects</summary>
 
-  <a href="https://github.com/gabriel-suzin01/powerbi-refresh-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-refresh-scraper&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+  <a href="https://github.com/gabriel-suzin01/powerbi-update-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-update-scraper&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/gabriel-suzin01/powerbi-refresh-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-refresh-tracker&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
 </details>
 
