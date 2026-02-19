@@ -8,7 +8,7 @@
 </p>
 
 <div align="center" width=100%>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
     <img src="https://github-readme-streak-stats-alpha-gray.vercel.app?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" width=48%/>
 </div>
 
@@ -40,11 +40,12 @@
       <img src="images/LUAU.svg" />
       <img src="images/M.svg" />
       <img src="images/PYTHON.svg" />
+      <img src="images/PHP.svg" />
       <img src="images/TYPESCRIPT.svg" />
       <img src="images/VB.svg" />
     </td>
     <td width=25%>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-suzin01&layout=pie&langs-count=5&theme=dark&background=00000000&hide_border=true" height=100% />
+        <img src="https://github-readme-stats-black-phi-53.vercel.app/api/top-langs/?username=gabriel-suzin01&layout=pie&langs-count=5&theme=dark&background=00000000&hide_border=true" height=100% />
         <!-- caso quiser futuramente implementar horas de coding <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-suzin01&theme=merko" /> -->
     </td>
   </tr>
@@ -58,6 +59,9 @@
       <img src="images/skull.gif" alt="☠️" width=100% style="vertical-align: middle"/>
     </td>
     <td width=75% valign="top">
+      <img src="images/ADIANTI.svg" />
+      <img src="images/BOOTSTRAP.svg" />
+      <img src="images/DEVOPS.svg" />
       <img src="images/FIGMA.svg" />
       <img src="images/GIT.svg" />
       <img src="images/JIRA.svg" />
@@ -65,6 +69,7 @@
       <img src="images/POWERAUTOMATE.svg" />
       <img src="images/POWERBI.svg" />
       <img src="images/STEAM.svg" />
+      <img src="images/TAILWIND.svg" />
       <img src="images/TRELLO.svg" />
       <img src="images/VSCODE.svg" />
     </td>
@@ -74,28 +79,32 @@
 ## <img src="images/robot.gif" alt="🤖" height="24" style="vertical-align: middle"/> Main Repositories
 
 <details>
-  <summary>Back-end Projects</summary>
+  <summary>⚡️ Automation Projects</summary>
 
   <a href="https://github.com/gabriel-suzin01/powerbi-update-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-update-scraper&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-update-scraper&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
 
   <a href="https://github.com/gabriel-suzin01/powerbi-refresh-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-refresh-tracker&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=powerbi-refresh-tracker&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
 </details>
 
 <details>
-  <summary>Front-end Projects</summary>
+  <summary>🎨 Front-end Projects</summary>
   
   <a href="https://github.com/gabriel-suzin01/ifsc-garden-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-suzin01&repo=ifsc-garden-monitor&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=ifsc-garden-monitor&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
 </details>
 
-<!-- <details>
-  <summary>Fullstack Projects</summary>
-</details> -->
+<details>
+  <summary>🎮 Game Projects</summary>
+
+  <a href="https://github.com/gabriel-suzin01/memory-match-game">
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=memory-match-game&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+  </a>
+</details>
 
 <!-- <details>
   <summary>Others Projects</summary>
