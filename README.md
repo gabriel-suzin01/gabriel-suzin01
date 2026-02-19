@@ -104,6 +104,10 @@
   <a href="https://github.com/gabriel-suzin01/memory-match-game">
     <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=memory-match-game&theme=dark&bg_color=FFFFFF00&hide_border=true" />
   </a>
+  
+  <a href="https://github.com/gabriel-suzin01/tic-tac-toe">
+    <img src="https://github-readme-stats-black-phi-53.vercel.app/api/pin/?username=gabriel-suzin01&repo=tic-tac-toe&theme=dark&bg_color=FFFFFF00&hide_border=true" />
+  </a>
 </details>
 
 <!-- <details>
