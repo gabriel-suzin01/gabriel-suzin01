@@ -45,7 +45,7 @@
       <img src="images/VB.svg" />
     </td>
     <td width=25%>
-        <img src="https://github-readme-stats-black-phi-53.vercel.app/api/top-langs/?username=gabriel-suzin01&layout=pie&langs-count=5&theme=dark&background=00000000&hide_border=true&exclude_repo=simpletech,github-readme-stats,github-readme-streak-stats" height=100% />
+        <img src="https://github-readme-stats-black-phi-53.vercel.app/api/top-langs/?username=gabriel-suzin01&layout=pie&langs-count=5&theme=dark&background=00000000&hide_border=true&exclude_repo=simpletech,github-readme-stats,github-readme-streak-stats,pa3-estrutura-dados" height=100% />
         <!-- caso quiser futuramente implementar horas de coding <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-suzin01&theme=merko" /> -->
     </td>
   </tr>
