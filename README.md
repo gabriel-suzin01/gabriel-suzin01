@@ -7,10 +7,12 @@
   </picture>
 </p>
 
-<div align="center" width=100%>
-    <img src="https://github-readme-stats-black-phi-53.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
-    <img src="https://github-readme-streak-stats-alpha-gray.vercel.app?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" width=48%/>
-</div>
+<!--
+  <div align="center" width=100%>
+      <img src="https://github-readme-stats-black-phi-53.vercel.app/api?username=gabriel-suzin01&show_icons=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true" width=48% />
+      <img src="https://github-readme-streak-stats-alpha-gray.vercel.app?user=gabriel-suzin01&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" width=48%/>
+  </div>
+-->
 
 # <img src="images/wave.gif" alt="👋" height="32" style="vertical-align: middle"/> Hey there!
 
@@ -51,30 +53,32 @@
   </tr>
 </table>
 
-### 🛠️ Tools, Frameworks & Others
-
-<table>
-  <tr>
-    <td width=25%>
-      <img src="images/skull.gif" alt="☠️" width=100% style="vertical-align: middle"/>
-    </td>
-    <td width=75% valign="top">
-      <img src="images/ADIANTI.svg" />
-      <img src="images/BOOTSTRAP.svg" />
-      <img src="images/DEVOPS.svg" />
-      <img src="images/FIGMA.svg" />
-      <img src="images/GIT.svg" />
-      <img src="images/JIRA.svg" />
-      <img src="images/POWERAPPS.svg" />
-      <img src="images/POWERAUTOMATE.svg" />
-      <img src="images/POWERBI.svg" />
-      <img src="images/STEAM.svg" />
-      <img src="images/TAILWIND.svg" />
-      <img src="images/TRELLO.svg" />
-      <img src="images/VSCODE.svg" />
-    </td>
-  </tr>
-</table>
+<!--
+  ### 🛠️ Tools, Frameworks & Others
+  
+  <table>
+    <tr>
+      <td width=25%>
+        <img src="images/skull.gif" alt="☠️" width=100% style="vertical-align: middle"/>
+      </td>
+      <td width=75% valign="top">
+        <img src="images/ADIANTI.svg" />
+        <img src="images/BOOTSTRAP.svg" />
+        <img src="images/DEVOPS.svg" />
+        <img src="images/FIGMA.svg" />
+        <img src="images/GIT.svg" />
+        <img src="images/JIRA.svg" />
+        <img src="images/POWERAPPS.svg" />
+        <img src="images/POWERAUTOMATE.svg" />
+        <img src="images/POWERBI.svg" />
+        <img src="images/STEAM.svg" />
+        <img src="images/TAILWIND.svg" />
+        <img src="images/TRELLO.svg" />
+        <img src="images/VSCODE.svg" />
+      </td>
+    </tr>
+  </table>
+-->
 
 ## <img src="images/robot.gif" alt="🤖" height="24" style="vertical-align: middle"/> Main Repositories
 
